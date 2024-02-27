@@ -5,4 +5,3 @@ The data_preprocessing.py module performs necessary preprocessing and cleaning t
 multithreading.py module is utilized to accelerate the processing of multiple labeled CSV files simultaneously. 
 The main control flow and execution are managed in the main.py file.
 
-For more details on the research behind this code, check out my thesis [here](https://lnkd.in/diu_Y9sp).
